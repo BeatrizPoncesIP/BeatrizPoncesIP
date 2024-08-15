@@ -61,8 +61,14 @@
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizPoncesIP&layout=compact&count_private=true&theme=chartreuse-dark&hide_border=true&locale=pt-BR)](https://github.com/BeatrizPoncesIP/github-readme-stats)
 
+## Sites
+
+https://beatrizponcesip.github.io/projeto-xdevs/
+
 ## Repositórios
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/pin/?username=BeatrizPoncesIP&repo=project-rpg&show_icons=true&count_private=true&theme=chartreuse-dark&locale=pt-BR&hide_border=true&show_owner=true)](https://github.com/BeatrizPoncesIP/project-rpg)
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/pin/?username=BeatrizPoncesIP&repo=to_do_list&show_icons=true&count_private=true&theme=chartreuse-dark&locale=pt-BR&hide_border=true&show_owner=true)](https://github.com/BeatrizPoncesIP/to_do_list)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/pin/?username=BeatrizPoncesIP&repo=dio-lab-open-source&show_icons=true&count_private=true&theme=chartreuse-dark&locale=pt-BR&hide_border=true&show_owner=true)](https://github.com/BeatrizPoncesIP/dio-lab-open-source)
+[![Most used languages](https://github-readme-stats.vercel.app/api/pin/?username=BeatrizPoncesIP&repo=project-banking-system&show_icons=true&count_private=true&theme=chartreuse-dark&locale=pt-BR&hide_border=true&show_owner=true)](https://github.com/BeatrizPoncesIP/project-banking-system)
