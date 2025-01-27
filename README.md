@@ -12,7 +12,7 @@
 ##  Sobre
 <i>
 
-> Olá! Eu sou Beatriz Ponces, uma entusiasta em desenvolvimento de software que começou a programar na faculdade. Atualmente, estou no 4º semestre do curso de Engenharia da Computação.
+> Olá! Eu sou Beatriz Ponces, uma entusiasta em desenvolvimento de software que começou a programar na faculdade. Atualmente, estou no 5º semestre do curso de Engenharia da Computação.
   
 > Apesar de ainda não ter experiência profissional na área, tenho uma paixão por programação, especialmente em Java com foco em Orientação a Objetos. Além disso, gosto muito de criar aplicativos usando Flutter.
   
